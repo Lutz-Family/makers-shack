@@ -7,6 +7,14 @@
       "summary": "Forever-only marking wheel by Eggbert. CurseForge link lands here when the project is public.",
       "status": "1.0.0",
       "href": "/projects/ctrlmark/"
+    },
+    {
+      "slug": "marketing-forever",
+      "title": "Marketing Forever",
+      "tag": "WoW addon",
+      "summary": "Forever-only minimap shout icon for saved, channel-targeted marketing messages.",
+      "status": "1.0.1",
+      "href": "/projects/marketing-forever/"
     }
   ]
 }
